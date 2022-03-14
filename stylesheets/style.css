@@ -116,6 +116,7 @@ li{
     background-color: #3882f6;
     width:800px;
     height:100px;
+    border-radius: 16px;
     align-self: center;
     display: flex;
     flex-direction: row;
